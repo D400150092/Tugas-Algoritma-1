@@ -1,0 +1,6 @@
+inisialisasi variabel a,b,c (bilangan bulat)
+input : ax^2+bx+c=0
+if a=0 then input bukan persamaan kuadrat 
+else
+rumus abc 
+print(x1,x2)
